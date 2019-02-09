@@ -7,8 +7,8 @@ import urllib
 import random
 import json
 
-appid = '20181126000239659'  # 你的appid
-secretKey = 'ICIDfkcUrlxUmxYipw74'  # 你的密钥
+appid = 'xxxxxxxxxxx'  # 你的appid
+secretKey = 'xxxxxxxxxxxxx'  # 你的密钥
 
 myurl = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
 q = input("请输入要翻译的英文:")
